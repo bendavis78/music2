@@ -1,0 +1,31 @@
+body, html{
+    background-color: #EDEDED !important;
+}
+
+nav{
+    background-color: #90a4ae;
+}
+
+.album .col{
+    margin-bottom: 24px;
+}
+
+.album h5{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.album hr{
+    width: 40px;
+    margin-bottom: 45px;
+}
+
+.album .album-cover{
+    clear: both;
+    text-align: center;
+}
+
+.album img{
+    display: inline-block;
+    float: left;
